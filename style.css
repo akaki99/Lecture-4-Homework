@@ -1,0 +1,16 @@
+.student_list {border: 1px solid black;
+border-collapse: collapse;  width: 500px;
+}
+tr{border: 1px solid black
+
+}
+td{
+    border: 1px solid black
+}
+th{
+    border: 1px solid black;
+}
+caption{color: red}
+video{
+    width: 560px; height: 315px
+}
